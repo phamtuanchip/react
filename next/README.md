@@ -1,0 +1,2 @@
+- https://nextjs.org/learn/foundations/from-javascript-to-react
+- https://nextjs.org/learn/foundations/from-react-to-nextjs
