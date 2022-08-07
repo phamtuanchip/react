@@ -32,7 +32,6 @@ h1 {
   color: white;
   font-size: 1rem;
 }
-
 .button-container {
   text-align: center;
   display: flex;
@@ -62,15 +61,17 @@ button:active {
   max-width: 700px;
   margin: 50px auto;
   height: 50vh;
+  background: white;
   border-radius: 5px;
   padding: 1rem 2rem 1rem 5rem;
-  background-image: -webkit-gradient(
-    linear,
-    0 0,
-    0 100%,
-    from(#d9eaf3),
-    color-stop(4%, #fff)
-  ) 0 4px;
+  background: -webkit-gradient(
+      linear,
+      0 0,
+      0 100%,
+      from(#d9eaf3),
+      color-stop(4%, #fff)
+    )
+    0 4px;
   background-size: 100% 3rem;
   background-attachment: scroll;
   position: relative;
@@ -80,7 +81,7 @@ button:active {
 
 .success,
 .error {
-  background-color: #fff;
+  background-color: white;
   margin: 1rem auto;
   padding: 0.5rem 1rem;
   border-radius: 5px;
