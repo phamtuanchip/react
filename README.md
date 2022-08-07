@@ -10,3 +10,8 @@ React study
    - HARPERDB_URL="https://your_db_url.harperdbcloud.com"
    - HARPERDB_PW="Basic your_db_API_password"  
   - npm run dev
+
+# nextjs 
+- https://css-tricks.com/converting-speech-to-pdf-with-nextjs-and-expressjs/
+ 
+
