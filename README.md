@@ -14,4 +14,5 @@ React study
 # nextjs 
 - https://css-tricks.com/converting-speech-to-pdf-with-nextjs-and-expressjs/
  
-
+# screen record nextjs
+- https://mediajams.dev/post/Screen-recorder-with-next-js
