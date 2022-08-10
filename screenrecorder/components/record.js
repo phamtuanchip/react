@@ -65,7 +65,7 @@ function Recorder() {
                 />
             </div>
             <div className='buttons'>
-                {(status === "idle" || status === "error") && (
+                {(status === "idle" || status === "error" || status == "permission-requested") && (
                     <Button onClick={startRecording} variant='contained' color='primary' >Start recording</Button>
                 )}
                 {(status === "recording" || status === "paused") && (

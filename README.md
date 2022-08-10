@@ -16,3 +16,4 @@ React study
  
 # screen record nextjs
 - https://mediajams.dev/post/Screen-recorder-with-next-js
+- https://github.com/musebe/screenrecoder
